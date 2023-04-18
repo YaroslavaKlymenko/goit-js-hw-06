@@ -10,5 +10,5 @@ input.addEventListener('blur', function() {
   } else {
     this.classList.remove('valid');
     this.classList.add('invalid');
-  }
+  }пше
 });
