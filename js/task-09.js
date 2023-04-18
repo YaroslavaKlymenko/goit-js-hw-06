@@ -4,7 +4,7 @@ const body = document.querySelector('body');
 
 function changeColor () {
   const colorRandom = getRandomHexColor();
-  body.style.backgroundcolor = colorRandom;
+  body.style.backgroundColor = colorRandom;
   color.textContent = colorRandom;
 
 }
